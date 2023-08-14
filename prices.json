@@ -2,3 +2,39 @@
   { "item": "Item 1", "price": "$10", "imageUrl": "https://github.com/NoCapxGaming/latino-app/blob/main/images/arroz.png?raw=true" },
   { "item": "Item 2", "price": "$20", "imageUrl": "https://github.com/NoCapxGaming/latino-app/blob/main/images/arroz.png?raw=true" }
 ]
+[
+  {
+    "category": "Fruits",
+    "items": [
+      {
+        "item": "Apple",
+        "price": "$1",
+        "imageUrl": "https://github.com/NoCapxGaming/latino-app/blob/main/images/arroz.png?raw=true",
+        "description": "A juicy red apple."
+      },
+      {
+        "item": "Banana",
+        "price": "$0.5",
+        "imageUrl": "https://example.com/banana.png",
+        "description": "A ripe yellow banana."
+      }
+    ]
+  },
+  {
+    "category": "Vegetables",
+    "items": [
+      {
+        "item": "Carrot",
+        "price": "$0.7",
+        "imageUrl": "https://example.com/carrot.png",
+        "description": "A fresh orange carrot."
+      },
+      {
+        "item": "Broccoli",
+        "price": "$1.2",
+        "imageUrl": "https://example.com/broccoli.png",
+        "description": "A healthy green broccoli."
+      }
+    ]
+  }
+]
