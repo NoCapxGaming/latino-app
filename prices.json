@@ -1,15 +1,11 @@
 [
-  { "item": "Item 1", "price": "$10", "imageUrl": "https://github.com/NoCapxGaming/latino-app/blob/main/images/arroz.png?raw=true" },
-  { "item": "Item 2", "price": "$20", "imageUrl": "https://github.com/NoCapxGaming/latino-app/blob/main/images/arroz.png?raw=true" }
-]
-[
   {
     "category": "Fruits",
     "items": [
       {
         "item": "Apple",
         "price": "$1",
-        "imageUrl": "https://github.com/NoCapxGaming/latino-app/blob/main/images/arroz.png?raw=true",
+        "imageUrl": "https://example.com/apple.png",
         "description": "A juicy red apple."
       },
       {
