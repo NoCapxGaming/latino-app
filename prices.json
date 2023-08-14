@@ -5,13 +5,13 @@
       {
         "item": "Apple",
         "price": "$1",
-        "imageUrl": "https://example.com/apple.png",
+        "imageUrl": "https://github.com/NoCapxGaming/latino-app/blob/main/images/arroz.png?raw=true",
         "description": "A juicy red apple."
       },
       {
         "item": "Banana",
         "price": "$0.5",
-        "imageUrl": "https://example.com/banana.png",
+        "imageUrl": "https://github.com/NoCapxGaming/latino-app/blob/main/images/arroz.png?raw=true",
         "description": "A ripe yellow banana."
       }
     ]
@@ -22,13 +22,13 @@
       {
         "item": "Carrot",
         "price": "$0.7",
-        "imageUrl": "https://example.com/carrot.png",
+        "imageUrl": "https://github.com/NoCapxGaming/latino-app/blob/main/images/arroz.png?raw=true",
         "description": "A fresh orange carrot."
       },
       {
         "item": "Broccoli",
         "price": "$1.2",
-        "imageUrl": "https://example.com/broccoli.png",
+        "imageUrl": "https://github.com/NoCapxGaming/latino-app/blob/main/images/arroz.png?raw=true",
         "description": "A healthy green broccoli."
       }
     ]
