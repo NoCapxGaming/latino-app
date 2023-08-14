@@ -1,35 +1,35 @@
 [
   {
-    "category": "Fruits",
+    "category": "Cajas",
     "items": [
       {
-        "item": "Apple",
-        "price": "$1",
-        "imageUrl": "https://github.com/NoCapxGaming/latino-app/blob/main/images/arroz.png?raw=true",
-        "description": "A juicy red apple."
+        "item": "Box 18x18x28",
+        "price": "Vacía $7 Envío $50",
+        "imageUrl": "https://github.com/NoCapxGaming/latino-app/blob/main/images/caja24x36.png?raw=true",
+        "description": "Caja de tamaño 18x18x28, con un espacio de 5.25 pies cubicos."
       },
       {
-        "item": "Banana",
-        "price": "$0.5",
-        "imageUrl": "https://github.com/NoCapxGaming/latino-app/blob/main/images/arroz.png?raw=true",
-        "description": "A ripe yellow banana."
+        "item": "Caja 24x24x24",
+        "price": "$8",
+        "imageUrl": "https://github.com/NoCapxGaming/latino-app/blob/main/images/caja24x24.png?raw=true",
+        "description": "Caja de tamaño 24x24x24, con un espacio de 8 pies cubicos."
       }
     ]
   },
   {
-    "category": "Vegetables",
+    "category": "Productos",
     "items": [
       {
-        "item": "Carrot",
-        "price": "$0.7",
+        "item": "Arroz Lucky One 50 Lbs",
+        "price": "$35",
         "imageUrl": "https://github.com/NoCapxGaming/latino-app/blob/main/images/arroz.png?raw=true",
-        "description": "A fresh orange carrot."
+        "description": "Arroz Marca Lucky One de Grano Largo y 50 Lbs."
       },
       {
-        "item": "Broccoli",
-        "price": "$1.2",
+        "item": "Aceite Alberto 2.5Gal",
+        "price": "$35",
         "imageUrl": "https://github.com/NoCapxGaming/latino-app/blob/main/images/arroz.png?raw=true",
-        "description": "A healthy green broccoli."
+        "description": "Aceite Alberto Vegetal 2.5Gal."
       }
     ]
   }
