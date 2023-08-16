@@ -23,13 +23,13 @@
         "item": "Arroz Lucky One 50 Lbs",
         "price": "$35",
         "imageUrl": "https://github.com/NoCapxGaming/latino-app/blob/main/images/arroz.png?raw=true",
-        "description": "Arroz Marca Lucky One de Grano Largo y 50 Lbs."
+        "description": "Arroz de Grano Largo."
       },
       {
         "item": "Aceite Alberto 2.5Gal",
         "price": "$35",
         "imageUrl": "https://github.com/NoCapxGaming/latino-app/blob/main/images/aceite.png?raw=true",
-        "description": "Aceite Alberto Vegetal 2.5Gal."
+        "description": "Aceite Vegetal 2.5Gal."
       }
     ]
   }
